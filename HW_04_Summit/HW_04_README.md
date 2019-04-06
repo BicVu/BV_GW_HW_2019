@@ -25,10 +25,14 @@ Your final report should include each of the following:
 ### Purchasing Analysis (Total)
 
 * Number of Unique Items
-\* FIND UNIQUE IN COLUMN E/5: "Item ID"
+\* FIND UNIQUE IN COLUMN E/5: "SN"
 \* COUNT
+\* or make list of unique item and len list
+✅
+
 * Average Purchase Price
 \* AVERAGE COLUMN G/7: "Price"
+
 * Total Number of Purchases
 \* COLUMN 1 "Purchase ID" len or last value (w/o header)
 * Total Revenue
