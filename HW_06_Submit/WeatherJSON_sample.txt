@@ -1,0 +1,52 @@
+chapais
+{
+    "base": "stations",
+    "clouds": {
+        "all": 90
+    },
+    "cod": 200,
+    "coord": {
+        "lat": 49.78,
+        "lon": -74.86
+    },
+    "dt": 1555621440,
+    "id": 5919850,
+    "main": {
+        "humidity": 90,
+        "pressure": 1002,
+        "temp": 274.15,
+        "temp_max": 274.15,
+        "temp_min": 274.15
+    },
+    "name": "Chapais",
+    "sys": {
+        "country": "CA",
+        "id": 859,
+        "message": 0.0051,
+        "sunrise": 1555581664,
+        "sunset": 1555631769,
+        "type": 1
+    },
+    "visibility": 9656,
+    "weather": [
+        {
+            "description": "light rain",
+            "icon": "10d",
+            "id": 500,
+            "main": "Rain"
+        },
+        {
+            "description": "mist",
+            "icon": "50d",
+            "id": 701,
+            "main": "Mist"
+        }
+    ],
+    "wind": {
+        "deg": 130,
+        "gust": 10.3,
+        "speed": 6.2
+    }
+}
+
+
