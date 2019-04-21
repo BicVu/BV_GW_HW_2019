@@ -1,0 +1,1250 @@
+Beginning Data Retrieval 
+ ----------------------------- 
+Processing Record 1 of Set 1 | jamestown 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=jamestown 
+Processing Record 2 of Set 1 | port elizabeth 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=port elizabeth 
+Processing Record 3 of Set 1 | albany 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=albany 
+Processing Record 4 of Set 1 | busselton 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=busselton 
+Processing Record 5 of Set 1 | punta arenas 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=punta arenas 
+Processing Record 6 of Set 1 | torbay 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=torbay 
+Processing Record 7 of Set 1 | saint-pierre 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=saint-pierre 
+Processing Record 8 of Set 1 | norman wells 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=norman wells 
+Processing Record 9 of Set 1 | broome 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=broome 
+Processing Record 10 of Set 1 | attawapiskat 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=attawapiskat 
+Processing Record 11 of Set 1 | pangnirtung 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=pangnirtung 
+Processing Record 12 of Set 1 | cape town 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=cape town 
+Processing Record 13 of Set 1 | novoagansk 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=novoagansk 
+Processing Record 14 of Set 1 | bintulu 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=bintulu 
+Processing Record 15 of Set 1 | sahrak 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=sahrak 
+Processing Record 16 of Set 1 | cabo san lucas 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=cabo san lucas 
+Processing Record 17 of Set 1 | nouadhibou 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=nouadhibou 
+Processing Record 18 of Set 1 | beloha 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=beloha 
+Processing Record 19 of Set 1 | yantongshan 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=yantongshan 
+Processing Record 20 of Set 1 | cockburn town 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=cockburn town 
+Processing Record 21 of Set 1 | butaritari 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=butaritari 
+Processing Record 22 of Set 1 | sechura 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=sechura 
+Processing Record 23 of Set 1 | illoqqortoormiut 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=illoqqortoormiut 
+Processing Record 24 of Set 1 | nemuro 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=nemuro 
+Processing Record 25 of Set 1 | codrington 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=codrington 
+Processing Record 26 of Set 1 | half moon bay 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=half moon bay 
+Processing Record 27 of Set 1 | rikitea 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=rikitea 
+Processing Record 28 of Set 1 | mabaruma 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=mabaruma 
+Processing Record 29 of Set 1 | mataura 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=mataura 
+Processing Record 30 of Set 1 | puerto ayora 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=puerto ayora 
+Processing Record 31 of Set 1 | naryan-mar 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=naryan-mar 
+Processing Record 32 of Set 1 | patnos 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=patnos 
+Processing Record 33 of Set 1 | lebu 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=lebu 
+Processing Record 34 of Set 1 | chuy 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=chuy 
+Processing Record 35 of Set 1 | atuona 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=atuona 
+Processing Record 36 of Set 1 | kodiak 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=kodiak 
+Processing Record 37 of Set 1 | asosa 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=asosa 
+Processing Record 38 of Set 1 | arraial do cabo 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=arraial do cabo 
+Processing Record 39 of Set 1 | qaanaaq 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=qaanaaq 
+Processing Record 40 of Set 1 | bowmore 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=bowmore 
+Processing Record 41 of Set 1 | redlands 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=redlands 
+Processing Record 42 of Set 1 | bargal 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=bargal 
+Processing Record 43 of Set 1 | georgetown 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=georgetown 
+Processing Record 44 of Set 1 | port alfred 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=port alfred 
+Processing Record 45 of Set 1 | yellowknife 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=yellowknife 
+Processing Record 46 of Set 1 | nikolskoye 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=nikolskoye 
+Processing Record 47 of Set 1 | upernavik 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=upernavik 
+Processing Record 48 of Set 1 | mahebourg 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=mahebourg 
+Processing Record 49 of Set 1 | koumac 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=koumac 
+Processing Record 50 of Set 1 | taolanaro 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=taolanaro 
+Processing Record 51 of Set 1 | pimentel 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=pimentel 
+Processing Record 52 of Set 1 | bilibino 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=bilibino 
+Processing Record 53 of Set 1 | pemba 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=pemba 
+Processing Record 54 of Set 1 | umm lajj 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=umm lajj 
+Processing Record 55 of Set 1 | oranjestad 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=oranjestad 
+Processing Record 56 of Set 1 | souillac 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=souillac 
+Processing Record 57 of Set 1 | saldanha 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=saldanha 
+Processing Record 58 of Set 1 | amderma 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=amderma 
+Processing Record 59 of Set 1 | letka 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=letka 
+Processing Record 60 of Set 1 | tumannyy 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=tumannyy 
+Processing Record 61 of Set 1 | avarua 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=avarua 
+Processing Record 62 of Set 1 | hami 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=hami 
+Processing Record 63 of Set 1 | bonavista 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=bonavista 
+Processing Record 64 of Set 1 | cumaribo 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=cumaribo 
+Processing Record 65 of Set 1 | cagayan de tawi-tawi 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=cagayan de tawi-tawi 
+Processing Record 66 of Set 1 | minot 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=minot 
+Processing Record 67 of Set 1 | bandarbeyla 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=bandarbeyla 
+Processing Record 68 of Set 1 | buritizeiro 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=buritizeiro 
+Processing Record 69 of Set 1 | hobart 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=hobart 
+Processing Record 70 of Set 1 | pacific grove 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=pacific grove 
+Processing Record 71 of Set 1 | hermanus 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=hermanus 
+Processing Record 72 of Set 1 | zhangjiakou 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=zhangjiakou 
+Processing Record 73 of Set 1 | nouakchott 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=nouakchott 
+Processing Record 74 of Set 1 | brae 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=brae 
+Processing Record 75 of Set 1 | surgut 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=surgut 
+Processing Record 76 of Set 1 | tessalit 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=tessalit 
+Processing Record 77 of Set 1 | cheyenne 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=cheyenne 
+Processing Record 78 of Set 1 | merauke 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=merauke 
+Processing Record 79 of Set 1 | shunyi 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=shunyi 
+Processing Record 80 of Set 1 | provideniya 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=provideniya 
+Processing Record 81 of Set 1 | lichinga 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=lichinga 
+Processing Record 82 of Set 1 | tuktoyaktuk 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=tuktoyaktuk 
+Processing Record 83 of Set 1 | vostok 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=vostok 
+Processing Record 84 of Set 1 | ribeira grande 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=ribeira grande 
+Processing Record 85 of Set 1 | ushuaia 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=ushuaia 
+Processing Record 86 of Set 1 | angoram 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=angoram 
+Processing Record 87 of Set 1 | mar del plata 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=mar del plata 
+Processing Record 88 of Set 1 | acapulco 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=acapulco 
+Processing Record 89 of Set 1 | carbondale 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=carbondale 
+Processing Record 90 of Set 1 | adrar 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=adrar 
+Processing Record 91 of Set 1 | pyaozerskiy 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=pyaozerskiy 
+Processing Record 92 of Set 1 | marzuq 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=marzuq 
+Processing Record 93 of Set 1 | sentyabrskiy 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=sentyabrskiy 
+Processing Record 94 of Set 1 | cherskiy 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=cherskiy 
+Processing Record 95 of Set 1 | saskylakh 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=saskylakh 
+Processing Record 96 of Set 1 | barranca 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=barranca 
+Processing Record 97 of Set 1 | pevek 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=pevek 
+Processing Record 98 of Set 1 | lompoc 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=lompoc 
+Processing Record 99 of Set 1 | vaini 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=vaini 
+Processing Record 100 of Set 1 | thompson 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=thompson 
+Processing Record 101 of Set 1 | coquimbo 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=coquimbo 
+Processing Record 102 of Set 1 | terney 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=terney 
+Processing Record 103 of Set 1 | chunoyar 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=chunoyar 
+Processing Record 104 of Set 1 | khatanga 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=khatanga 
+Processing Record 105 of Set 1 | alofi 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=alofi 
+Processing Record 106 of Set 1 | makakilo city 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=makakilo city 
+Processing Record 107 of Set 1 | klaksvik 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=klaksvik 
+Processing Record 108 of Set 1 | carnarvon 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=carnarvon 
+Processing Record 109 of Set 1 | vallenar 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=vallenar 
+Processing Record 110 of Set 1 | warqla 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=warqla 
+Processing Record 111 of Set 1 | hithadhoo 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=hithadhoo 
+Processing Record 112 of Set 1 | lagoa 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=lagoa 
+Processing Record 113 of Set 1 | nerchinskiy zavod 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=nerchinskiy zavod 
+Processing Record 114 of Set 1 | mys shmidta 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=mys shmidta 
+Processing Record 115 of Set 1 | hvolsvollur 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=hvolsvollur 
+Processing Record 116 of Set 1 | esperance 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=esperance 
+Processing Record 117 of Set 1 | ismailia 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=ismailia 
+Processing Record 118 of Set 1 | les cayes 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=les cayes 
+Processing Record 119 of Set 1 | port lincoln 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=port lincoln 
+Processing Record 120 of Set 1 | iqaluit 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=iqaluit 
+Processing Record 121 of Set 1 | mitsamiouli 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=mitsamiouli 
+Processing Record 122 of Set 1 | los llanos de aridane 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=los llanos de aridane 
+Processing Record 123 of Set 1 | bilma 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=bilma 
+Processing Record 124 of Set 1 | clyde river 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=clyde river 
+Processing Record 125 of Set 1 | port macquarie 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=port macquarie 
+Processing Record 126 of Set 1 | ancud 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=ancud 
+Processing Record 127 of Set 1 | baykit 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=baykit 
+Processing Record 128 of Set 1 | kavieng 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=kavieng 
+Processing Record 129 of Set 1 | bonfim 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=bonfim 
+Processing Record 130 of Set 1 | colares 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=colares 
+Processing Record 131 of Set 1 | pruszkow 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=pruszkow 
+Processing Record 132 of Set 1 | ponta do sol 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=ponta do sol 
+Processing Record 133 of Set 1 | saint-francois 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=saint-francois 
+Processing Record 134 of Set 1 | udachnyy 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=udachnyy 
+Processing Record 135 of Set 1 | te anau 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=te anau 
+Processing Record 136 of Set 1 | tasiilaq 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=tasiilaq 
+Processing Record 137 of Set 1 | helong 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=helong 
+Processing Record 138 of Set 1 | lingao 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=lingao 
+Processing Record 139 of Set 1 | luanda 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=luanda 
+Processing Record 140 of Set 1 | yumen 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=yumen 
+Processing Record 141 of Set 1 | necochea 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=necochea 
+Processing Record 142 of Set 1 | yenagoa 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=yenagoa 
+Processing Record 143 of Set 1 | bluff 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=bluff 
+Processing Record 144 of Set 1 | sovetskaya gavan 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=sovetskaya gavan 
+Processing Record 145 of Set 1 | new norfolk 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=new norfolk 
+Processing Record 146 of Set 1 | sasina 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=sasina 
+Processing Record 147 of Set 1 | panguna 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=panguna 
+Processing Record 148 of Set 1 | bredasdorp 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=bredasdorp 
+Processing Record 149 of Set 1 | naze 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=naze 
+Processing Record 150 of Set 1 | kahului 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=kahului 
+Processing Record 151 of Set 1 | ozernovskiy 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=ozernovskiy 
+Processing Record 152 of Set 1 | katsuura 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=katsuura 
+Processing Record 153 of Set 1 | palabuhanratu 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=palabuhanratu 
+Processing Record 154 of Set 1 | tura 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=tura 
+Processing Record 155 of Set 1 | areia branca 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=areia branca 
+Processing Record 156 of Set 1 | carmen 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=carmen 
+Processing Record 157 of Set 1 | barentsburg 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=barentsburg 
+Processing Record 158 of Set 1 | airai 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=airai 
+Processing Record 159 of Set 1 | quatre cocos 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=quatre cocos 
+Processing Record 160 of Set 1 | san quintin 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=san quintin 
+Processing Record 161 of Set 1 | ishigaki 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=ishigaki 
+Processing Record 162 of Set 1 | roald 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=roald 
+Processing Record 163 of Set 1 | samalaeulu 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=samalaeulu 
+Processing Record 164 of Set 1 | namibe 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=namibe 
+Processing Record 165 of Set 1 | padang 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=padang 
+Processing Record 166 of Set 1 | sicuani 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=sicuani 
+Processing Record 167 of Set 1 | grants pass 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=grants pass 
+Processing Record 168 of Set 1 | westport 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=westport 
+Processing Record 169 of Set 1 | ukiah 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=ukiah 
+Processing Record 170 of Set 1 | sao joao da barra 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=sao joao da barra 
+Processing Record 171 of Set 1 | lata 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=lata 
+Processing Record 172 of Set 1 | caconda 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=caconda 
+Processing Record 173 of Set 1 | bengkulu 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=bengkulu 
+Processing Record 174 of Set 1 | salalah 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=salalah 
+Processing Record 175 of Set 1 | kapaa 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=kapaa 
+Processing Record 176 of Set 1 | zhanakorgan 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=zhanakorgan 
+Processing Record 177 of Set 1 | vila franca do campo 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=vila franca do campo 
+Processing Record 178 of Set 1 | gizo 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=gizo 
+Processing Record 179 of Set 1 | sinjah 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=sinjah 
+Processing Record 180 of Set 1 | coihaique 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=coihaique 
+Processing Record 181 of Set 1 | bubaque 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=bubaque 
+Processing Record 182 of Set 1 | chokurdakh 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=chokurdakh 
+Processing Record 183 of Set 1 | barrow 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=barrow 
+Processing Record 184 of Set 1 | saint-philippe 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=saint-philippe 
+Processing Record 185 of Set 1 | richards bay 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=richards bay 
+Processing Record 186 of Set 1 | kayes 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=kayes 
+Processing Record 187 of Set 1 | isangel 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=isangel 
+Processing Record 188 of Set 1 | santa eulalia del rio 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=santa eulalia del rio 
+Processing Record 189 of Set 1 | koslan 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=koslan 
+Processing Record 190 of Set 1 | taitung 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=taitung 
+Processing Record 191 of Set 1 | yirol 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=yirol 
+Processing Record 192 of Set 1 | aksarka 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=aksarka 
+Processing Record 193 of Set 1 | sept-iles 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=sept-iles 
+Processing Record 194 of Set 1 | saint george 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=saint george 
+Processing Record 195 of Set 1 | hilo 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=hilo 
+Processing Record 196 of Set 1 | xining 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=xining 
+Processing Record 197 of Set 1 | kieta 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=kieta 
+Processing Record 198 of Set 1 | baruun-urt 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=baruun-urt 
+Processing Record 199 of Set 1 | fenoarivo 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=fenoarivo 
+Processing Record 200 of Set 1 | tsihombe 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=tsihombe 
+Processing Record 201 of Set 1 | kruisfontein 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=kruisfontein 
+Processing Record 202 of Set 1 | sao felix do xingu 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=sao felix do xingu 
+Processing Record 203 of Set 1 | troitskoye 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=troitskoye 
+Processing Record 204 of Set 1 | praia da vitoria 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=praia da vitoria 
+Processing Record 205 of Set 1 | nikolayevka 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=nikolayevka 
+Processing Record 206 of Set 1 | mogadishu 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=mogadishu 
+Processing Record 207 of Set 1 | yulara 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=yulara 
+Processing Record 208 of Set 1 | grand river south east 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=grand river south east 
+Processing Record 209 of Set 1 | utiroa 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=utiroa 
+Processing Record 210 of Set 1 | karakose 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=karakose 
+Processing Record 211 of Set 1 | shelburne 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=shelburne 
+Processing Record 212 of Set 1 | khandyga 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=khandyga 
+Processing Record 213 of Set 1 | teya 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=teya 
+Processing Record 214 of Set 1 | rungata 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=rungata 
+Processing Record 215 of Set 1 | zaysan 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=zaysan 
+Processing Record 216 of Set 1 | yeppoon 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=yeppoon 
+Processing Record 217 of Set 1 | sirjan 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=sirjan 
+Processing Record 218 of Set 1 | umba 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=umba 
+Processing Record 219 of Set 1 | manyana 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=manyana 
+Processing Record 220 of Set 1 | nevesinje 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=nevesinje 
+Processing Record 221 of Set 1 | neftekamsk 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=neftekamsk 
+Processing Record 222 of Set 1 | ostersund 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=ostersund 
+Processing Record 223 of Set 1 | bani walid 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=bani walid 
+Processing Record 224 of Set 1 | guipavas 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=guipavas 
+Processing Record 225 of Set 1 | olden 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=olden 
+Processing Record 226 of Set 1 | atbasar 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=atbasar 
+Processing Record 227 of Set 1 | maniitsoq 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=maniitsoq 
+Processing Record 228 of Set 1 | albury 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=albury 
+Processing Record 229 of Set 1 | dikson 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=dikson 
+Processing Record 230 of Set 1 | marquette 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=marquette 
+Processing Record 231 of Set 1 | canutama 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=canutama 
+Processing Record 232 of Set 1 | emerald 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=emerald 
+Processing Record 233 of Set 1 | east london 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=east london 
+Processing Record 234 of Set 1 | ilulissat 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=ilulissat 
+Processing Record 235 of Set 1 | moose factory 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=moose factory 
+Processing Record 236 of Set 1 | port blair 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=port blair 
+Processing Record 237 of Set 1 | hambantota 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=hambantota 
+Processing Record 238 of Set 1 | alta floresta 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=alta floresta 
+Processing Record 239 of Set 1 | fort morgan 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=fort morgan 
+Processing Record 240 of Set 1 | mananara 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=mananara 
+Processing Record 241 of Set 1 | rockport 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=rockport 
+Processing Record 242 of Set 1 | kailua 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=kailua 
+Processing Record 243 of Set 1 | alice 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=alice 
+Processing Record 244 of Set 1 | maryville 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=maryville 
+Processing Record 245 of Set 1 | nizhneyansk 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=nizhneyansk 
+Processing Record 246 of Set 1 | castro 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=castro 
+Processing Record 247 of Set 1 | sataua 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=sataua 
+Processing Record 248 of Set 1 | sampit 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=sampit 
+Processing Record 249 of Set 1 | yerbogachen 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=yerbogachen 
+Processing Record 250 of Set 1 | rocha 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=rocha 
+Processing Record 251 of Set 1 | adelaide 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=adelaide 
+Processing Record 252 of Set 1 | nabire 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=nabire 
+Processing Record 253 of Set 1 | bethel 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=bethel 
+Processing Record 254 of Set 1 | san juan 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=san juan 
+Processing Record 255 of Set 1 | severo-kurilsk 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=severo-kurilsk 
+Processing Record 256 of Set 1 | hailar 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=hailar 
+Processing Record 257 of Set 1 | san cristobal 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=san cristobal 
+Processing Record 258 of Set 1 | gibara 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=gibara 
+Processing Record 259 of Set 1 | pierre 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=pierre 
+Processing Record 260 of Set 1 | alice springs 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=alice springs 
+Processing Record 261 of Set 1 | guiyang 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=guiyang 
+Processing Record 262 of Set 1 | banda aceh 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=banda aceh 
+Processing Record 263 of Set 1 | cotonou 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=cotonou 
+Processing Record 264 of Set 1 | yanliang 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=yanliang 
+Processing Record 265 of Set 1 | solnechnyy 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=solnechnyy 
+Processing Record 266 of Set 1 | oga 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=oga 
+Processing Record 267 of Set 1 | pisco 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=pisco 
+Processing Record 268 of Set 1 | auki 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=auki 
+Processing Record 269 of Set 1 | miura 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=miura 
+Processing Record 270 of Set 1 | atar 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=atar 
+Processing Record 271 of Set 1 | nome 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=nome 
+Processing Record 272 of Set 1 | shakawe 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=shakawe 
+Processing Record 273 of Set 1 | lavrentiya 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=lavrentiya 
+Processing Record 274 of Set 1 | laredo 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=laredo 
+Processing Record 275 of Set 1 | bambous virieux 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=bambous virieux 
+Processing Record 276 of Set 1 | imbituba 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=imbituba 
+Processing Record 277 of Set 1 | comodoro rivadavia 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=comodoro rivadavia 
+Processing Record 278 of Set 1 | ngama 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=ngama 
+Processing Record 279 of Set 1 | turayf 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=turayf 
+Processing Record 280 of Set 1 | moron 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=moron 
+Processing Record 281 of Set 1 | tiksi 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=tiksi 
+Processing Record 282 of Set 1 | campbell 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=campbell 
+Processing Record 283 of Set 1 | qaqortoq 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=qaqortoq 
+Processing Record 284 of Set 1 | vaitape 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=vaitape 
+Processing Record 285 of Set 1 | nisia floresta 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=nisia floresta 
+Processing Record 286 of Set 1 | danielskuil 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=danielskuil 
+Processing Record 287 of Set 1 | olinda 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=olinda 
+Processing Record 288 of Set 1 | olafsvik 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=olafsvik 
+Processing Record 289 of Set 1 | gat 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=gat 
+Processing Record 290 of Set 1 | sattahip 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=sattahip 
+Processing Record 291 of Set 1 | calbuco 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=calbuco 
+Processing Record 292 of Set 1 | mariinsk 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=mariinsk 
+Processing Record 293 of Set 1 | hvide sande 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=hvide sande 
+Processing Record 294 of Set 1 | diego de almagro 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=diego de almagro 
+Processing Record 295 of Set 1 | adamovka 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=adamovka 
+Processing Record 296 of Set 1 | zyryanka 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=zyryanka 
+Processing Record 297 of Set 1 | simao 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=simao 
+Processing Record 298 of Set 1 | oranjemund 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=oranjemund 
+Processing Record 299 of Set 1 | nha trang 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=nha trang 
+Processing Record 300 of Set 1 | sambava 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=sambava 
+Processing Record 301 of Set 1 | mugur-aksy 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=mugur-aksy 
+Processing Record 302 of Set 1 | kattivakkam 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=kattivakkam 
+Processing Record 303 of Set 1 | columbus 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=columbus 
+Processing Record 304 of Set 1 | pavlysh 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=pavlysh 
+Processing Record 305 of Set 1 | celestun 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=celestun 
+Processing Record 306 of Set 1 | lima 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=lima 
+Processing Record 307 of Set 1 | saleaula 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=saleaula 
+Processing Record 308 of Set 1 | salcininkai 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=salcininkai 
+Processing Record 309 of Set 1 | grindavik 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=grindavik 
+Processing Record 310 of Set 1 | narsaq 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=narsaq 
+Processing Record 311 of Set 1 | santa cruz 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=santa cruz 
+Processing Record 312 of Set 1 | tezu 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=tezu 
+Processing Record 313 of Set 1 | kurchum 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=kurchum 
+Processing Record 314 of Set 1 | faanui 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=faanui 
+Processing Record 315 of Set 1 | sinnamary 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=sinnamary 
+Processing Record 316 of Set 1 | hofn 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=hofn 
+Processing Record 317 of Set 1 | palmer 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=palmer 
+Processing Record 318 of Set 1 | slave lake 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=slave lake 
+Processing Record 319 of Set 1 | laguna 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=laguna 
+Processing Record 320 of Set 1 | aybak 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=aybak 
+Processing Record 321 of Set 1 | berlevag 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=berlevag 
+Processing Record 322 of Set 1 | egvekinot 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=egvekinot 
+Processing Record 323 of Set 1 | nanortalik 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=nanortalik 
+Processing Record 324 of Set 1 | hihifo 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=hihifo 
+Processing Record 325 of Set 1 | geraldton 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=geraldton 
+Processing Record 326 of Set 1 | flinders 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=flinders 
+Processing Record 327 of Set 1 | marsa matruh 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=marsa matruh 
+Processing Record 328 of Set 1 | rodrigues alves 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=rodrigues alves 
+Processing Record 329 of Set 1 | ca mau 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=ca mau 
+Processing Record 330 of Set 1 | longyearbyen 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=longyearbyen 
+Processing Record 331 of Set 1 | polson 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=polson 
+Processing Record 332 of Set 1 | saryshagan 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=saryshagan 
+Processing Record 333 of Set 1 | longhua 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=longhua 
+Processing Record 334 of Set 1 | kazalinsk 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=kazalinsk 
+Processing Record 335 of Set 1 | hasaki 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=hasaki 
+Processing Record 336 of Set 1 | mendi 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=mendi 
+Processing Record 337 of Set 1 | norman 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=norman 
+Processing Record 338 of Set 1 | ust-tsilma 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=ust-tsilma 
+Processing Record 339 of Set 1 | bom jesus 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=bom jesus 
+Processing Record 340 of Set 1 | pascagoula 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=pascagoula 
+Processing Record 341 of Set 1 | dongsheng 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=dongsheng 
+Processing Record 342 of Set 1 | sao filipe 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=sao filipe 
+Processing Record 343 of Set 1 | constitucion 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=constitucion 
+Processing Record 344 of Set 1 | konstantinovka 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=konstantinovka 
+Processing Record 345 of Set 1 | manoel urbano 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=manoel urbano 
+Processing Record 346 of Set 1 | tabiauea 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=tabiauea 
+Processing Record 347 of Set 1 | beian 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=beian 
+Processing Record 348 of Set 1 | sorong 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=sorong 
+Processing Record 349 of Set 1 | vilhena 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=vilhena 
+Processing Record 350 of Set 1 | lasa 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=lasa 
+Processing Record 351 of Set 1 | halifax 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=halifax 
+Processing Record 352 of Set 1 | tautira 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=tautira 
+Processing Record 353 of Set 1 | montgomery 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=montgomery 
+Processing Record 354 of Set 1 | jardim 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=jardim 
+Processing Record 355 of Set 1 | san giovanni rotondo 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=san giovanni rotondo 
+Processing Record 356 of Set 1 | niquelandia 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=niquelandia 
+Processing Record 357 of Set 1 | labuhan 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=labuhan 
+Processing Record 358 of Set 1 | faya 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=faya 
+Processing Record 359 of Set 1 | nuuk 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=nuuk 
+Processing Record 360 of Set 1 | pachperwa 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=pachperwa 
+Processing Record 361 of Set 1 | oum hadjer 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=oum hadjer 
+Processing Record 362 of Set 1 | quelimane 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=quelimane 
+Processing Record 363 of Set 1 | itarema 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=itarema 
+Processing Record 364 of Set 1 | luderitz 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=luderitz 
+Processing Record 365 of Set 1 | mundo nuevo 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=mundo nuevo 
+Processing Record 366 of Set 1 | adre 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=adre 
+Processing Record 367 of Set 1 | ahuimanu 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=ahuimanu 
+Processing Record 368 of Set 1 | cairns 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=cairns 
+Processing Record 369 of Set 1 | inzhavino 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=inzhavino 
+Processing Record 370 of Set 1 | miri 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=miri 
+Processing Record 371 of Set 1 | bathsheba 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=bathsheba 
+Processing Record 372 of Set 1 | vaitupu 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=vaitupu 
+Processing Record 373 of Set 1 | chase 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=chase 
+Processing Record 374 of Set 1 | kavaratti 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=kavaratti 
+Processing Record 375 of Set 1 | dicabisagan 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=dicabisagan 
+Processing Record 376 of Set 1 | kloulklubed 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=kloulklubed 
+Processing Record 377 of Set 1 | alamosa 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=alamosa 
+Processing Record 378 of Set 1 | asau 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=asau 
+Processing Record 379 of Set 1 | sekoma 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=sekoma 
+Processing Record 380 of Set 1 | samusu 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=samusu 
+Processing Record 381 of Set 1 | khrebtovaya 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=khrebtovaya 
+Processing Record 382 of Set 1 | bereda 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=bereda 
+Processing Record 383 of Set 1 | moss point 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=moss point 
+Processing Record 384 of Set 1 | bati 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=bati 
+Processing Record 385 of Set 1 | pochutla 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=pochutla 
+Processing Record 386 of Set 1 | galle 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=galle 
+Processing Record 387 of Set 1 | komsomolskiy 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=komsomolskiy 
+Processing Record 388 of Set 1 | ahipara 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=ahipara 
+Processing Record 389 of Set 1 | bolungarvik 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=bolungarvik 
+Processing Record 390 of Set 1 | yaan 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=yaan 
+Processing Record 391 of Set 1 | kulachi 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=kulachi 
+Processing Record 392 of Set 1 | victoria 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=victoria 
+Processing Record 393 of Set 1 | dukat 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=dukat 
+Processing Record 394 of Set 1 | arman 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=arman 
+Processing Record 395 of Set 1 | kaitangata 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=kaitangata 
+Processing Record 396 of Set 1 | ginir 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=ginir 
+Processing Record 397 of Set 1 | dingle 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=dingle 
+Processing Record 398 of Set 1 | belushya guba 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=belushya guba 
+Processing Record 399 of Set 1 | nagua 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=nagua 
+Processing Record 400 of Set 1 | nicoya 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=nicoya 
+Processing Record 401 of Set 1 | fevralsk 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=fevralsk 
+Processing Record 402 of Set 1 | troitsko-pechorsk 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=troitsko-pechorsk 
+Processing Record 403 of Set 1 | cidreira 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=cidreira 
+Processing Record 404 of Set 1 | sisimiut 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=sisimiut 
+Processing Record 405 of Set 1 | jiangyou 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=jiangyou 
+Processing Record 406 of Set 1 | chapais 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=chapais 
+Processing Record 407 of Set 1 | rock sound 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=rock sound 
+Processing Record 408 of Set 1 | tuatapere 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=tuatapere 
+Processing Record 409 of Set 1 | san patricio 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=san patricio 
+Processing Record 410 of Set 1 | tisul 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=tisul 
+Processing Record 411 of Set 1 | kamenskoye 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=kamenskoye 
+Processing Record 412 of Set 1 | nyeri 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=nyeri 
+Processing Record 413 of Set 1 | fairbanks 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=fairbanks 
+Processing Record 414 of Set 1 | farafenni 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=farafenni 
+Processing Record 415 of Set 1 | along 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=along 
+Processing Record 416 of Set 1 | devarkonda 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=devarkonda 
+Processing Record 417 of Set 1 | grand gaube 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=grand gaube 
+Processing Record 418 of Set 1 | burgeo 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=burgeo 
+Processing Record 419 of Set 1 | margate 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=margate 
+Processing Record 420 of Set 1 | pitimbu 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=pitimbu 
+Processing Record 421 of Set 1 | panuco 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=panuco 
+Processing Record 422 of Set 1 | broken hill 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=broken hill 
+Processing Record 423 of Set 1 | zeerust 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=zeerust 
+Processing Record 424 of Set 1 | nioro 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=nioro 
+Processing Record 425 of Set 1 | mahibadhoo 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=mahibadhoo 
+Processing Record 426 of Set 1 | baisha 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=baisha 
+Processing Record 427 of Set 1 | karaul 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=karaul 
+Processing Record 428 of Set 1 | kahramanmaras 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=kahramanmaras 
+Processing Record 429 of Set 1 | gazimurskiy zavod 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=gazimurskiy zavod 
+Processing Record 430 of Set 1 | manta 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=manta 
+Processing Record 431 of Set 1 | honiara 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=honiara 
+Processing Record 432 of Set 1 | caravelas 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=caravelas 
+Processing Record 433 of Set 1 | ghanzi 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=ghanzi 
+Processing Record 434 of Set 1 | emba 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=emba 
+Processing Record 435 of Set 1 | flin flon 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=flin flon 
+Processing Record 436 of Set 1 | magadi 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=magadi 
+Processing Record 437 of Set 1 | vardo 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=vardo 
+Processing Record 438 of Set 1 | impfondo 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=impfondo 
+Processing Record 439 of Set 1 | tiznit 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=tiznit 
+Processing Record 440 of Set 1 | cascais 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=cascais 
+Processing Record 441 of Set 1 | christchurch 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=christchurch 
+Processing Record 442 of Set 1 | karratha 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=karratha 
+Processing Record 443 of Set 1 | merritt 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=merritt 
+Processing Record 444 of Set 1 | miandrivazo 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=miandrivazo 
+Processing Record 445 of Set 1 | kasangulu 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=kasangulu 
+Processing Record 446 of Set 1 | begun 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=begun 
+Processing Record 447 of Set 1 | gouyave 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=gouyave 
+Processing Record 448 of Set 1 | el alto 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=el alto 
+Processing Record 449 of Set 1 | vanimo 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=vanimo 
+Processing Record 450 of Set 1 | chara 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=chara 
+Processing Record 451 of Set 1 | toliary 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=toliary 
+Processing Record 452 of Set 1 | foumban 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=foumban 
+Processing Record 453 of Set 1 | muromtsevo 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=muromtsevo 
+Processing Record 454 of Set 1 | troy 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=troy 
+Processing Record 455 of Set 1 | san andres 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=san andres 
+Processing Record 456 of Set 1 | saint anthony 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=saint anthony 
+Processing Record 457 of Set 1 | parrsboro 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=parrsboro 
+Processing Record 458 of Set 1 | riyadh 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=riyadh 
+Processing Record 459 of Set 1 | aswan 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=aswan 
+Processing Record 460 of Set 1 | nobeoka 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=nobeoka 
+Processing Record 461 of Set 1 | seddon 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=seddon 
+Processing Record 462 of Set 1 | atasu 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=atasu 
+Processing Record 463 of Set 1 | muana 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=muana 
+Processing Record 464 of Set 1 | roma 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=roma 
+Processing Record 465 of Set 1 | demba 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=demba 
+Processing Record 466 of Set 1 | pandan 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=pandan 
+Processing Record 467 of Set 1 | stettler 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=stettler 
+Processing Record 468 of Set 1 | anar darreh 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=anar darreh 
+Processing Record 469 of Set 1 | pacsa 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=pacsa 
+Processing Record 470 of Set 1 | melnikovo 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=melnikovo 
+Processing Record 471 of Set 1 | plettenberg bay 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=plettenberg bay 
+Processing Record 472 of Set 1 | oktyabrskiy 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=oktyabrskiy 
+Processing Record 473 of Set 1 | phultala 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=phultala 
+Processing Record 474 of Set 1 | sao domingos do prata 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=sao domingos do prata 
+Processing Record 475 of Set 1 | miyako 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=miyako 
+Processing Record 476 of Set 1 | lorengau 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=lorengau 
+Processing Record 477 of Set 1 | teknaf 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=teknaf 
+Processing Record 478 of Set 1 | zainsk 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=zainsk 
+Processing Record 479 of Set 1 | ternuvate 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=ternuvate 
+Processing Record 480 of Set 1 | gubkinskiy 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=gubkinskiy 
+Processing Record 481 of Set 1 | hovd 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=hovd 
+Processing Record 482 of Set 1 | najran 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=najran 
+Processing Record 483 of Set 1 | longkou 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=longkou 
+Processing Record 484 of Set 1 | orebro 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=orebro 
+Processing Record 485 of Set 1 | lososina 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=lososina 
+Processing Record 486 of Set 1 | jasper 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=jasper 
+Processing Record 487 of Set 1 | churachandpur 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=churachandpur 
+Processing Record 488 of Set 1 | bhadasar 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=bhadasar 
+Processing Record 489 of Set 1 | yining 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=yining 
+Processing Record 490 of Set 1 | barvinkove 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=barvinkove 
+Processing Record 491 of Set 1 | aloleng 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=aloleng 
+Processing Record 492 of Set 1 | wooster 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=wooster 
+Processing Record 493 of Set 1 | doha 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=doha 
+Processing Record 494 of Set 1 | kuchera 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=kuchera 
+Processing Record 495 of Set 1 | vila velha 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=vila velha 
+Processing Record 496 of Set 1 | talnakh 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=talnakh 
+Processing Record 497 of Set 1 | tongliao 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=tongliao 
+Processing Record 498 of Set 1 | grand-santi 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=grand-santi 
+Processing Record 499 of Set 1 | umzimvubu 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=umzimvubu 
+Processing Record 500 of Set 1 | baijiantan 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=baijiantan 
+Processing Record 501 of Set 1 | onega 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=onega 
+Processing Record 502 of Set 1 | pundaguitan 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=pundaguitan 
+Processing Record 503 of Set 1 | hammerfest 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=hammerfest 
+Processing Record 504 of Set 1 | kaeo 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=kaeo 
+Processing Record 505 of Set 1 | basco 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=basco 
+Processing Record 506 of Set 1 | jahrom 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=jahrom 
+Processing Record 507 of Set 1 | jiayuguan 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=jiayuguan 
+Processing Record 508 of Set 1 | upata 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=upata 
+Processing Record 509 of Set 1 | ulenje 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=ulenje 
+Processing Record 510 of Set 1 | buala 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=buala 
+Processing Record 511 of Set 1 | sairang 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=sairang 
+Processing Record 512 of Set 1 | penzance 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=penzance 
+Processing Record 513 of Set 1 | grieskirchen 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=grieskirchen 
+Processing Record 514 of Set 1 | vila do maio 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=vila do maio 
+Processing Record 515 of Set 1 | bystryy istok 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=bystryy istok 
+Processing Record 516 of Set 1 | praia 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=praia 
+Processing Record 517 of Set 1 | mergui 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=mergui 
+Processing Record 518 of Set 1 | candolim 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=candolim 
+Processing Record 519 of Set 1 | bangil 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=bangil 
+Processing Record 520 of Set 1 | acarau 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=acarau 
+Processing Record 521 of Set 1 | kingaroy 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=kingaroy 
+Processing Record 522 of Set 1 | miguel hidalgo 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=miguel hidalgo 
+Processing Record 523 of Set 1 | jilib 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=jilib 
+Processing Record 524 of Set 1 | rudbar 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=rudbar 
+Processing Record 525 of Set 1 | kunming 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=kunming 
+Processing Record 526 of Set 1 | huilong 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=huilong 
+Processing Record 527 of Set 1 | pontal do parana 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=pontal do parana 
+Processing Record 528 of Set 1 | haines junction 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=haines junction 
+Processing Record 529 of Set 1 | shelton 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=shelton 
+Processing Record 530 of Set 1 | nantucket 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=nantucket 
+Processing Record 531 of Set 1 | port augusta 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=port augusta 
+Processing Record 532 of Set 1 | atambua 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=atambua 
+Processing Record 533 of Set 1 | olean 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=olean 
+Processing Record 534 of Set 1 | valer 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=valer 
+Processing Record 535 of Set 1 | ikare 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=ikare 
+Processing Record 536 of Set 1 | beyneu 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=beyneu 
+Processing Record 537 of Set 1 | abu samrah 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=abu samrah 
+Processing Record 538 of Set 1 | panjab 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=panjab 
+Processing Record 539 of Set 1 | southbridge 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=southbridge 
+Processing Record 540 of Set 1 | sagua la grande 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=sagua la grande 
+Processing Record 541 of Set 1 | rosario 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=rosario 
+Processing Record 542 of Set 1 | saint-joseph 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=saint-joseph 
+Processing Record 543 of Set 1 | tocopilla 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=tocopilla 
+Processing Record 544 of Set 1 | goderich 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=goderich 
+Processing Record 545 of Set 1 | fort dodge 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=fort dodge 
+Processing Record 546 of Set 1 | madison heights 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=madison heights 
+Processing Record 547 of Set 1 | progreso 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=progreso 
+Processing Record 548 of Set 1 | bonnyville 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=bonnyville 
+Processing Record 549 of Set 1 | gravdal 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=gravdal 
+Processing Record 550 of Set 1 | kribi 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=kribi 
+Processing Record 551 of Set 1 | hanna 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=hanna 
+Processing Record 552 of Set 1 | abu zabad 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=abu zabad 
+Processing Record 553 of Set 1 | batemans bay 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=batemans bay 
+Processing Record 554 of Set 1 | skagastrond 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=skagastrond 
+Processing Record 555 of Set 1 | qandala 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=qandala 
+Processing Record 556 of Set 1 | rapid valley 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=rapid valley 
+Processing Record 557 of Set 1 | kaniama 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=kaniama 
+Processing Record 558 of Set 1 | pingliang 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=pingliang 
+Processing Record 559 of Set 1 | salinopolis 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=salinopolis 
+Processing Record 560 of Set 1 | boyolangu 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=boyolangu 
+Processing Record 561 of Set 1 | moyale 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=moyale 
+Processing Record 562 of Set 1 | batagay-alyta 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=batagay-alyta 
+Processing Record 563 of Set 1 | sjovegan 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=sjovegan 
+Processing Record 564 of Set 1 | koson 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=koson 
+Processing Record 565 of Set 1 | severo-yeniseyskiy 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=severo-yeniseyskiy 
+Processing Record 566 of Set 1 | saharsa 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=saharsa 
+Processing Record 567 of Set 1 | kurumkan 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=kurumkan 
+Processing Record 568 of Set 1 | seymchan 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=seymchan 
+Processing Record 569 of Set 1 | uwajima 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=uwajima 
+Processing Record 570 of Set 1 | ipixuna 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=ipixuna 
+Processing Record 571 of Set 1 | namatanai 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=namatanai 
+Processing Record 572 of Set 1 | wahran 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=wahran 
+Processing Record 573 of Set 1 | bo rai 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=bo rai 
+Processing Record 574 of Set 1 | touros 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=touros 
+Processing Record 575 of Set 1 | hamilton 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=hamilton 
+Processing Record 576 of Set 1 | kodinsk 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=kodinsk 
+Processing Record 577 of Set 1 | tevaitoa 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=tevaitoa 
+Processing Record 578 of Set 1 | carinhanha 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=carinhanha 
+Processing Record 579 of Set 1 | sabzevar 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=sabzevar 
+Processing Record 580 of Set 1 | minas de barroteran 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=minas de barroteran 
+Processing Record 581 of Set 1 | uniontown 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=uniontown 
+Processing Record 582 of Set 1 | muros 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=muros 
+Processing Record 583 of Set 1 | pilar 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=pilar 
+Processing Record 584 of Set 1 | wau 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=wau 
+Processing Record 585 of Set 1 | suba 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=suba 
+Processing Record 586 of Set 1 | mrirt 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=mrirt 
+Processing Record 587 of Set 1 | bendigo 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=bendigo 
+Processing Record 588 of Set 1 | mana 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=mana 
+Processing Record 589 of Set 1 | huallanca 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=huallanca 
+Processing Record 590 of Set 1 | peniche 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=peniche 
+Processing Record 591 of Set 1 | saravena 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=saravena 
+Processing Record 592 of Set 1 | itaqui 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=itaqui 
+Processing Record 593 of Set 1 | ambodifototra 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=ambodifototra 
+Processing Record 594 of Set 1 | rome 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=rome 
+Processing Record 595 of Set 1 | kovur 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=kovur 
+Processing Record 596 of Set 1 | verkhoyansk 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=verkhoyansk 
+Processing Record 597 of Set 1 | nishihara 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=nishihara 
+Processing Record 598 of Set 1 | sal rei 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=sal rei 
+Processing Record 599 of Set 1 | wonthaggi 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=wonthaggi 
+Processing Record 600 of Set 1 | tokur 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=tokur 
+Processing Record 601 of Set 1 | ostrovnoy 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=ostrovnoy 
+Processing Record 602 of Set 1 | sakakah 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=sakakah 
+Processing Record 603 of Set 1 | ambilobe 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=ambilobe 
+Processing Record 604 of Set 1 | vilyuysk 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=vilyuysk 
+Processing Record 605 of Set 1 | boshnyakovo 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=boshnyakovo 
+Processing Record 606 of Set 1 | abay 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=abay 
+Processing Record 607 of Set 1 | yarada 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=yarada 
+Processing Record 608 of Set 1 | khair 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=khair 
+Processing Record 609 of Set 1 | ust-ilimsk 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=ust-ilimsk 
+Processing Record 610 of Set 1 | datong 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=datong 
+Processing Record 611 of Set 1 | pacifica 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=pacifica 
+Processing Record 612 of Set 1 | maputo 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=maputo 
+Processing Record 613 of Set 1 | nekhayevskiy 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=nekhayevskiy 
+Processing Record 614 of Set 1 | telimele 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=telimele 
+Processing Record 615 of Set 1 | sioux lookout 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=sioux lookout 
+Processing Record 616 of Set 1 | sawtell 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=sawtell 
+Processing Record 617 of Set 1 | biloela 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=biloela 
+Processing Record 618 of Set 1 | fort saint john 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=fort saint john 
+Processing Record 619 of Set 1 | shenjiamen 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=shenjiamen 
+Processing Record 620 of Set 1 | kaseda 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=kaseda 
+Processing Record 621 of Set 1 | zeya 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=zeya 
+Processing Record 622 of Set 1 | leningradskiy 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=leningradskiy 
+Processing Record 623 of Set 1 | temaraia 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=temaraia 
+Processing Record 624 of Set 1 | husavik 
+ http://api.openweathermap.org/data/2.5/weather?appid=35cba08fc2a0b2a23a8c75372f227d50&q=husavik 
